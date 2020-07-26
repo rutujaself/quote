@@ -74,7 +74,7 @@ body {
         grid-template-columns: 1fr;
     }
     .center-block {
-        width: 100%;
+        width: 90%;
     }
 }
 
